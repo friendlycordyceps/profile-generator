@@ -1,0 +1,23 @@
+{
+  "name": "TestingFrameworks",
+  "version": "1.0.0",
+  "description": "A suite of testing frameworks",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "chai": "~4.2.0",
+    "express": "^4.16.4",
+    "mocha": "~5.2.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "mocha": "~5.2.0"
+  }
+}
